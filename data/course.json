@@ -1,0 +1,35 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Environmental Engineering",
+      "Hydrology and Water Resource Systems"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "33276d25-513e-b899-3f8a-bdbc3287e6d2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Groundwater Hydrology",
+  "course_description": "This course covers fundamentals of subsurface flow and transport, emphasizing the role of groundwater in the hydrologic cycle, the relation of groundwater flow to geologic structure, and the management of contaminated groundwater. The class includes laboratory and computer demonstrations.\n",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1.72",
+  "learning_resource_types": [
+    "Video Materials",
+    "Simulation Videos",
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
